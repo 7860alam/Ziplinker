@@ -7,13 +7,13 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ  Mᴏᴠɪᴇs 😄
 
 Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ ⚡️
 
-ᴍᴀɪɴᴛᴀɪɴ ʙy : <a href='https://t.me/xax_ha_ha_l'>𓆩OGGY𓆪</a> 💎</b>"""
+ᴍᴀɪɴᴛᴀɪɴ ʙy : <a href='https://t.me/ziplinker'>Ziplinker</a> 💎</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/about_oggy'>𝙾𝙶𝙶𝚈 𝚇 𝙹𝙴𝚁𝚁𝚈</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/ziplinker'>Ziplinker</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -21,10 +21,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/about_oggy">ʜᴇʀᴇ</a>
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀ Private ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/@DwayneJohnsonl">Ziplinker</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/xax_ha_ha_l">𝙾𝙶𝙶𝚈 𝚇 𝙹𝙴𝚁𝚁𝚈</a></b>"""
+- <a href="https://t.me/@DwayneJohnsonl">Ziplinker</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -45,7 +45,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/about_oggy)</code>
+<code>[Button Text](buttonurl:https://t.me/DwayneJohnsonl)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -155,9 +155,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 🅰︎🅱︎🅷︎🅸︎🅼︎🅰︎🅽︎🆈︎🆄︎_🅶︎🆄︎🅿︎🆃︎🅰︎
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Abhimanyu_Gupta_9
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Abhimanyu_Gupta_9'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Ziplinker
+• ᴜꜱᴇʀɴᴀᴍᴇ : @ziplinker
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/ziplinker'>ziplinker</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -202,12 +202,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ─────────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ : ᴄʟᴏꜱᴇ ᴜʀ ᴇyᴇꜱ 🌑
+🔅 Dark Devil : ᴄʟᴏꜱᴇ ᴜʀ ᴇyᴇꜱ 🌑
 ╰─────── • ◆ • ─────────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @LbHmoviebackup
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @all_movies_request_group_2
+▫️ ᴄʜᴀɴɴᴇʟ : @imdbxmovie_update
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @imdb_movie_request_group
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
