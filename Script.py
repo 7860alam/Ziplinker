@@ -206,8 +206,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ─────────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @imdbxmovie_update
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @imdb_movie_request_group
+▫️ ᴄʜᴀɴɴᴇʟ : @moviexadda_update
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @movie_adda_request_group
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
